@@ -14,7 +14,7 @@
     "@bugsnag/js": "^6.2.0",
     "@bugsnag/plugin-vue": "^6.2.0",
     "algoliasearch": "^3.32.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dotenv": "^6.2.0",
     "is-wsl": "^1.1.0",
     "js-cookie": "^2.2.0",
